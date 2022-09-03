@@ -1,0 +1,27 @@
+.nav{
+    display:flex;
+    width: 100%;
+
+    background-color:rgba(15, 15, 15, 0.521) ;
+}
+.nav-links{
+    display: flex;
+    justify-content:right;
+    width: 1800px;
+    padding: 10px;
+}
+h1{
+    color:white
+}
+li{
+    width: 150px;
+}
+.btn{
+
+    background-color: rgb(0, 183, 255);
+    
+    color: white;
+}
+a:link{
+    color: white;
+}
